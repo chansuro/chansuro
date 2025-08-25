@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surajit Koley</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [SSTACS](https://github.com/chansuro/satsang-server)
+- 🔭 I’m currently working on [SSTACS, SSTACS Frontend, Recird Income and expense](https://github.com/chansuro/satsang-server, https://github.com/chansuro/satsang-frontend, https://github.com/chansuro/record-income-expense)
 
 - 🌱 I’m currently learning **Data Analytics using AI**
 
